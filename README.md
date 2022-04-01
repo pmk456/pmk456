@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pmk456
-- 👀 I’m interested in Python, Machine Learning, Scripting, Linux, Hacking Tools
-- 🌱 I’m currently learning Machine Learning With Python
-- 💞️ I’m looking to collaborate with Python learners
+- 👀 I’m interested in Python, OOP, Data Structers, Algorithms, Scripting, Linux
+- 💞️ I’m looking to collaborate with DS learners
 - 📫 Reach me at patanmusthakheem786@gmail.com
 <!---
 pmk456/pmk456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

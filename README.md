@@ -1,4 +1,4 @@
-**Hi Buddy, I'm Patan Musthakheem Khan (Pmk456) 👋  
+**Hi Buddy, I'm Patan Musthakheem Khan (Pmk456)** 👋  
 
 🚀 **Just a Hobbyist of Computers & Electronics** who started writing code at the age of 9.  
 ⚡ **Don't expect a flashy GitHub page**—just raw passion, real-world projects, and hands-on experience.  
